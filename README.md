@@ -6,7 +6,9 @@ Marking and Saving Regions
 (1) Launch MaZda and select "File" → "Load image..." to load an ultrasound image in BMP format.
 
 (2) In the displayed image, mark the following regions:
+
   •	Region of Interest (ROI) with red
+
   •	Background region with green
 
 (3) After completing the marking, select "File" → "Save ROI".
@@ -17,7 +19,9 @@ Marking and Saving Regions
 Extracting Image Features
 
 (1) Prepare the following two files:
+  
   •	Original image: case001.bmp
+  
   •	ROI-marked image: case001_ROI.bmp
 
 (2) Open a terminal or command prompt and run the following command:
