@@ -16,6 +16,7 @@ Marking and Saving Regions
 (4) In the "Save as type" dropdown, choose "non-overlapping regions (*.bmp)" and save the file as case001_ROI.bmp.
 
 
+
 Extracting Image Features
 
 (1) Prepare the following two files:
@@ -25,6 +26,7 @@ Extracting Image Features
   •	ROI-marked image: case001_ROI.bmp
 
 (2) Open a terminal or command prompt and run the following command:
+  
   python CalcFeatures.py case001
 
 (3) The extracted image features will be saved in a file named Features.csv.
