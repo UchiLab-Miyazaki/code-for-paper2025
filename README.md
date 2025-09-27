@@ -1,7 +1,7 @@
 # code-for-paper
 This is the source code for the manuscript currently under peer review. Please handle it with care.
 
-Marking and Saving Regions
+**Marking and Saving Regions**
 
 (1) Launch MaZda and select "File" → "Load image..." to load an ultrasound image in BMP format.
 
@@ -17,7 +17,7 @@ Marking and Saving Regions
 
 
 
-Extracting Image Features
+**Extracting Image Features**
 
 (1) Prepare the following two files:
   
