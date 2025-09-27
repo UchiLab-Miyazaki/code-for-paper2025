@@ -3,17 +3,17 @@ This is the source code for the manuscript currently under peer review. Please h
 
 **Marking and Saving Regions**
 
-(1) Launch MaZda and select "File" → "Load image..." to load an ultrasound image in BMP format.
+1. Launch MaZda and select "File" → "Load image..." to load an ultrasound image in BMP format.
 
-(2) In the displayed image, mark the following regions:
+2. In the displayed image, mark the following regions:
 
   •	Region of Interest (ROI) with red
 
   •	Background region with green
 
-(3) After completing the marking, select "File" → "Save ROI".
+3. After completing the marking, select "File" → "Save ROI".
 
-(4) In the "Save as type" dropdown, choose "non-overlapping regions (*.bmp)" and save the file as case001_ROI.bmp.
+4. In the "Save as type" dropdown, choose "non-overlapping regions (*.bmp)" and save the file as case001_ROI.bmp.
 
 
 
