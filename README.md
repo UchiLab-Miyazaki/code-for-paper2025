@@ -7,9 +7,9 @@ This is the source code for the manuscript currently under peer review. Please h
 
 2. In the displayed image, mark the following regions:
 
-  •	Region of Interest (ROI) with red
+  * Region of Interest (ROI) with red
 
-  •	Background region with green
+  * Background region with green
 
 3. After completing the marking, select "File" → "Save ROI".
 
