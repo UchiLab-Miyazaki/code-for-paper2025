@@ -1,6 +1,7 @@
 # code-for-paper
 This is the source code for the manuscript currently under peer review. Please handle it with care.
 
+
 **Marking and Saving Regions**
 
 1. Launch MaZda and select "File" → "Load image..." to load an ultrasound image in BMP format.
@@ -26,7 +27,9 @@ This is the source code for the manuscript currently under peer review. Please h
  *	ROI-marked image: case001_ROI.bmp
 
  2. Open a terminal or command prompt and run the following command:
-  
-  python CalcFeatures.py case001
+
+'''
+python CalcFeatures.py case001
+'''
 
 3. The extracted image features will be saved in a file named Features.csv.
