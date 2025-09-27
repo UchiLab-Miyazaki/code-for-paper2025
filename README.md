@@ -19,14 +19,14 @@ This is the source code for the manuscript currently under peer review. Please h
 
 **Extracting Image Features**
 
-(1) Prepare the following two files:
+1. Prepare the following two files:
   
-  •	Original image: case001.bmp
+ *	Original image: case001.bmp
   
-  •	ROI-marked image: case001_ROI.bmp
+ *	ROI-marked image: case001_ROI.bmp
 
-(2) Open a terminal or command prompt and run the following command:
+ 2. Open a terminal or command prompt and run the following command:
   
   python CalcFeatures.py case001
 
-(3) The extracted image features will be saved in a file named Features.csv.
+3. The extracted image features will be saved in a file named Features.csv.
