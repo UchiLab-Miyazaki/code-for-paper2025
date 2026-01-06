@@ -1,6 +1,5 @@
 # code-for-paper
-This is the source code for the manuscript currently under peer review. Please handle it with care.
-
+This is the source code for the manuscript "Yamashita N, Kodama Y, Irisa H, Ifuku T, Nakatani K, Uchiyama Y, Moritake H, Watanabe N. Mid-coronary Artery Wall Echogenicity Can Contribute to the Initial Diagnosis of Kawasaki Disease: Quantitative Measurements by Transthoracic Echocardiography. J Am Soc Echocardiogr. 2025 Dec 27:S0894-7317(25)00721-7. doi: 10.1016/j.echo.2025.12.013. Epub ahead of print. PMID: 41461298."
 
 
 **Marking and Saving Regions**
